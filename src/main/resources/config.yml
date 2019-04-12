@@ -1,0 +1,16 @@
+Aliases:
+  DARK_BLUE:
+    - "navy"
+  DARK_GREEN:
+    - "forest"
+  DARK_PURPLE:
+    - "purple"
+  GOLD:
+    - "orange"
+  GREEN:
+    - "the light green"
+    - "lime"
+  LIGHT_PURPLE:
+    - "pink"
+
+Messages: {}

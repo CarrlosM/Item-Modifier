@@ -1,0 +1,12 @@
+name: ItemModifier
+description: Customize the way your items look in game
+version: '1.0'
+author: Carlos#2018
+main: us.carlosmendez.commissions.itemmodifier.ItemModifier
+commands:
+  setname:
+    description: Set the name of your item
+    aliases: [rename]
+  setlore:
+    description: Set the lore of your item
+    aliases: [relore]
